@@ -299,6 +299,12 @@
               "name": "_ZN3sce2np6ObjectdlEPv"
             },
             {
+              "id": 11724096798482146222,
+              "hex_id": "A2B45BEBD9D2A3AE",
+              "encoded_id": "orRb69nSo64",
+              "name": "_ZN3sce2np6ObjectnwEmR16SceNpAllocatorEx"
+            },
+            {
               "id": 14909980433896498831,
               "hex_id": "CEEAE4354A6CE68F",
               "encoded_id": "zurkNUps5o8",
@@ -327,6 +333,12 @@
               "hex_id": "4483D874CC7CC19C",
               "encoded_id": "RIPYdMx8wZw",
               "name": "_ZNK3sce2np10JsonString6GetStrEv"
+            },
+            {
+              "id": 6497681531102055212,
+              "hex_id": "5A2C66ED24F44B2C",
+              "encoded_id": "Wixm7ST0Syw",
+              "name": "_ZNK3sce2np10JsonString9GetLengthEv"
             },
             {
               "id": 7543955807101731185,
@@ -444,12 +456,6 @@
               "name": null
             },
             {
-              "id": 6497681531102055212,
-              "hex_id": "5A2C66ED24F44B2C",
-              "encoded_id": "Wixm7ST0Syw",
-              "name": null
-            },
-            {
               "id": 9032400917169741919,
               "hex_id": "7D5988C748D0A05F",
               "encoded_id": "fVmIx0jQoF8",
@@ -477,12 +483,6 @@
               "id": 11315778551523756525,
               "hex_id": "9D09B8A3988EC9ED",
               "encoded_id": "nQm4o5iOye0",
-              "name": null
-            },
-            {
-              "id": 11724096798482146222,
-              "hex_id": "A2B45BEBD9D2A3AE",
-              "encoded_id": "orRb69nSo64",
               "name": null
             },
             {
@@ -596,6 +596,12 @@
               "name": "_ZN3sce2np4UserD1Ev"
             },
             {
+              "id": 11421804749092763469,
+              "hex_id": "9E8266E76B8B374D",
+              "encoded_id": "noJm52uLN00",
+              "name": "_ZNK3sce2np4User10IsLoggedInEv"
+            },
+            {
               "id": 13105200193774446656,
               "hex_id": "B5DF0624544E6840",
               "encoded_id": "td8GJFROaEA",
@@ -606,12 +612,6 @@
               "hex_id": "EA689B6BFA5C42DF",
               "encoded_id": "6miba-pcQt8",
               "name": "sceNpManagerIntGetSigninState"
-            },
-            {
-              "id": 11421804749092763469,
-              "hex_id": "9E8266E76B8B374D",
-              "encoded_id": "noJm52uLN00",
-              "name": null
             }
           ]
         }
